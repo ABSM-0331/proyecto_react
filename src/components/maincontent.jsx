@@ -8,6 +8,9 @@ function MainContent() {
                 Este es un ejemplo de una página web completa hecha en React. Puedes personalizar
                 cada sección según tus necesidades.
             </p>
+            <p>
+                este en un nuevo parrafo para hacer una prueba de las ramas en git
+            </p>
         </section>
     );
 }
